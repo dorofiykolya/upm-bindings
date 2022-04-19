@@ -1,0 +1,16 @@
+{
+  "name": "dorofiykolya.bindings",
+  "displayName": "Bindings",
+  "version": "0.0.1",
+  "unity": "2018.4",
+  "author": "https://github.com/dorofiykolya",
+  "description": "require .NET 4x\n",
+  "keywords": [
+    "bindings"
+  ],
+  "dependencies": {
+    "dorofiykolya.lifetime": "1.0.0",
+    "dorofiykolya.signal": "1.0.0"
+  },
+  "category": "Unity"
+}

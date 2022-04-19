@@ -1,0 +1,16 @@
+{
+    "name": "dorofiykolya.bindings.editor",
+    "references": [
+        "dorofiykolya.bindings"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
